@@ -4,6 +4,12 @@ A responsive and interactive Todo List website built using **HTML**, **CSS**, an
 
 ---
 
+## 🚀 Demo
+
+Try the live demo here: [https://richard-pius.github.io/Todo_list_website/](https://richard-pius.github.io/Todo_list_website/)
+
+---
+
 ## 🎯 Features
 
 - ✅ Add, edit, complete, and delete tasks
