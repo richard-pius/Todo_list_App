@@ -1,9 +1,44 @@
-# Todo list
-This is a Todo List program created using React and JavaScript and also with the help of llama3 LLM. This program can only store the todo list item as long as the tab is open and the item is lost when the tab is closed.
-This is a very basic todo list website!
-Screenshots are provided below:
+# 📝 Todo List Website
 
+A responsive and interactive Todo List website built using **HTML**, **CSS**, and **JavaScript**, inspired by [CSSInppets's YouTube tutorial](https://www.youtube.com/watch?v=gRkaen6MeQc).
 
-![Screenshot 2024-08-23 213825](https://github.com/user-attachments/assets/96ee5106-b67d-43d8-ac09-026bfe652a7d)
+---
 
-![Screenshot 2024-08-23 213911](https://github.com/user-attachments/assets/0dc2883d-1a32-45d6-8798-f368cf9c083c)
+## 🎯 Features
+
+- ✅ Add, edit, complete, and delete tasks
+- 💾 Save tasks with `localStorage` (persists after refresh)
+- 📊 Visual progress tracker
+- 🎉 Confetti animation on full completion
+- 📱 Fully responsive layout
+- ✨ Modern glassmorphism UI
+
+---
+
+## 📸 Screenshots
+
+![todo list home](https://github.com/user-attachments/assets/7fff8770-15c9-4939-8407-80dbc023694e)
+![todo list mid](https://github.com/user-attachments/assets/5ba85350-fea5-4515-910d-452b5ef7e901)
+![todo list completed](https://github.com/user-attachments/assets/1a0159c3-1e50-4aaf-8086-d21db563c90b)
+
+---
+
+## ⚠️ Disclaimer
+
+This project is a **personal implementation** based on the public [CSSInppets YouTube tutorial](https://www.youtube.com/watch?v=gRkaen6MeQc).  
+It was created for **educational and portfolio purposes** only.  
+The design concept is credited to **CSSInppets**, and no part of this project includes content from her paid digital product on [BuyMeACoffee](https://buymeacoffee.com/cssnippets/e/353890).  
+This code is **not for resale** or commercial redistribution.
+
+---
+
+## 📜 License
+
+This project is open-sourced under the [MIT License](LICENSE).  
+You are free to use and modify this code with attribution.
+
+---
+
+## 💖 Support the Original Creator
+
+Enjoyed the UI design? Support [CSSInppets](https://buymeacoffee.com/cssnippets/e/353890) for her amazing work!
